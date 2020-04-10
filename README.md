@@ -48,7 +48,7 @@ Feito utilizando testes automatizados.
 
 ## :memo: LICENÇA
 
-Projeto sobre licença MIT. Mais informações em [LICENÇA]().
+Projeto sobre licença MIT. Mais informações em [LICENÇA](https://github.com/gabriel-antero/challenge-reactJS/blob/master/LICENSE).
 
 ---
 
