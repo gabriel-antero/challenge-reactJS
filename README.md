@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gabriel-antero/challenge-reactJS/new/master?readme=1#information_source-sobre-o-desafio">Sobre o desafio<a/> |
-  <a href="https://github.com/gabriel-antero/challenge-reactJS/new/master?readme=1#dart-objetivos-realizados">Objetivos a realizar<a/> |
-  <a href="https://github.com/gabriel-antero/desafio-conceitos-node/blob/master/README.md#memo-licen%C3%A7a">LICENÇA<a/>
+  <a href="https://github.com/gabriel-antero/challenge-reactJS/blob/master/README.md#information_source-sobre-o-desafio">Sobre o desafio<a/> |
+  <a href="https://github.com/gabriel-antero/challenge-reactJS/blob/master/README.md#dart-objetivos-realizados">Objetivos a realizar<a/> |
+  <a href="https://github.com/gabriel-antero/challenge-reactJS/blob/master/README.md#memo-licen%C3%A7a">LICENÇA<a/>
 </p>
 
 ## :information_source: Sobre o desafio
